@@ -18,6 +18,9 @@
     [super viewDidLoad];
     NSLog(@"hello world");
     NSLog(@"this is a hub text");
+// nihao 
+    NSLog(@"this is a wangluo");
+    
 }
 
 - (void)didReceiveMemoryWarning {
