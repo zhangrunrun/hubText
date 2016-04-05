@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"hello world");
-    // Do any additional setup after loading the view, typically from a nib.
+    NSLog(@"this is a hub text");
 }
 
 - (void)didReceiveMemoryWarning {
